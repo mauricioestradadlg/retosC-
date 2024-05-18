@@ -1,0 +1,14 @@
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\bin\Debug\net7.0\reto3.exe
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\bin\Debug\net7.0\reto3.deps.json
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\bin\Debug\net7.0\reto3.runtimeconfig.json
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\bin\Debug\net7.0\reto3.dll
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\bin\Debug\net7.0\reto3.pdb
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.AssemblyInfoInputs.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.AssemblyInfo.cs
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.csproj.CoreCompileInputs.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.dll
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\refint\reto3.dll
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.pdb
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\reto3.genruntimeconfig.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto3\obj\Debug\net7.0\ref\reto3.dll

@@ -1,0 +1,14 @@
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\bin\Debug\net7.0\reto5.exe
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\bin\Debug\net7.0\reto5.deps.json
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\bin\Debug\net7.0\reto5.runtimeconfig.json
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\bin\Debug\net7.0\reto5.dll
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\bin\Debug\net7.0\reto5.pdb
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.AssemblyInfoInputs.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.AssemblyInfo.cs
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.csproj.CoreCompileInputs.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.dll
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\refint\reto5.dll
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.pdb
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\reto5.genruntimeconfig.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto5\obj\Debug\net7.0\ref\reto5.dll

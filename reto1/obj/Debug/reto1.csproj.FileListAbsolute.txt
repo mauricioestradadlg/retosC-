@@ -1,0 +1,7 @@
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\bin\Debug\reto1.exe.config
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\bin\Debug\reto1.exe
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\bin\Debug\reto1.pdb
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\obj\Debug\reto1.csproj.AssemblyReference.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\obj\Debug\reto1.csproj.CoreCompileInputs.cache
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\obj\Debug\reto1.exe
+C:\Users\Mau\Documents\Ingenieria de Software\C#\reto1\obj\Debug\reto1.pdb
